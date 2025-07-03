@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { clsx } from 'clsx'
-import { languages } from '../languades'
+import { languages } from '../languages'
 import { getFarewellText, getRandomWord } from '../utils'
 import Confetti from "react-confetti"
 
